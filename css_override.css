@@ -34,7 +34,7 @@
 */
 
 #header-logo, #header.no-user #header-logo {
-  background-image: url("wdhwani.png");
+  background-image: url(https://raw.githubusercontent.com/ManojG20/canvas/master/wdhwani.png);
   background-repeat: no-repeat;   
   background-size: auto 90px;  
   background-position: 50%;
