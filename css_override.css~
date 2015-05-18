@@ -33,8 +33,8 @@
 /// and use "background-size" to correctly fit your logo within the box area 
 */
 
-#header-logo, #header.no-user #header-logo {
-  background-image: url("wdhwani.png");
+/*#header-logo, #header.no-user #header-logo {
+  background-image: url("header_logo.png?v1");
   background-repeat: no-repeat;   
   background-size: auto 90px;  
   background-position: 50%;
@@ -44,7 +44,7 @@
   height: 70px;  
   top: 0;
   left: 0;  
-}
+}*/
 
 
 /* 
